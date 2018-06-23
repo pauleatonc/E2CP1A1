@@ -1,0 +1,88 @@
+body {margin: 20;}
+
+.banderas{
+	float: left;
+	width: 45%;
+	height: auto;
+}
+
+	.españa2 {
+		margin: 0px;
+		background-color: yellow;
+		width: 100%;
+		height: 40%;
+		margin-top: 20%;
+	}
+
+	.texto {		
+		clear: left;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.tex2 {
+		margin-top: 240px;
+	}
+
+	.dinamarca { 
+		box-sizing: border-box;
+		float: left;
+		background-color: red;
+		height: 240px;
+		width: 360px;
+		border: solid 1px black;
+	 }
+	 .din1 { 
+		 margin-left: 110px;
+	 	width: 20px;
+		 height: 110px;
+		 background-color: white;
+	 }
+	 .din2 {
+	 	width: 100%;
+	 	height: 20px;
+	 	background-color: white;
+	 }
+	 
+.emiratos { 
+		box-sizing: border-box;
+		float: left;
+		background-color: red;
+		height: 240px;
+		width: 360px;
+		border: solid 1px black;
+	 }
+	 .emir-lines{
+	 	box-sizing: border-box;
+	 	width: 280px;
+	 	height: 80px;
+	 	float: right;
+	 }
+	 .emiv {
+	 	background-color: green;
+	 }
+	 .emib {
+	 	background-color: white;
+	 } 
+	 .emin {
+	 	background-color: black;
+	 }
+
+	 .japon {
+	 	box-sizing: border-box;
+		float: left;
+		background-color: white;
+		height: 240px;
+		width: 360px;
+		border: solid 1px black;
+	 	
+	 }
+	  .circulo {
+	 	box-sizing: border-box;
+		margin-left: 120px;
+		margin-top: 60px;
+		margin-bottom: 60px;
+		background-color: red;
+		height: 120px;
+		width: 120px;
+		border-radius: 50%;
+	 }

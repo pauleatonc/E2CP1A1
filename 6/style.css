@@ -1,0 +1,9 @@
+.bateria {
+	position: absolute;
+}
+.oferta {
+	height: 60px;
+	position: relative;
+	left: 145px;
+	top: 145px;
+}
